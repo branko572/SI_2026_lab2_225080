@@ -1,0 +1,16 @@
+# Gradle
+build/
+.gradle/
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Node/other accidental files (just in case)
+node_modules/
+package-lock.json
+*.ts
+testing.js
